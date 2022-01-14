@@ -16,10 +16,12 @@ nav ul li:hover ul{
     position: absolute;
 }
 .dropdown li{
+    list-style: none;
     background-color: crimson;
     padding: 0 20px;
     margin: 0;;
 }
-li a{
-    padding: 10px;
+ li a{
+    text-decoration: none;
+    margin: 0;
 }
