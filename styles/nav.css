@@ -20,3 +20,6 @@ nav ul li:hover ul{
     padding: 0 20px;
     margin: 0;;
 }
+li a{
+    padding: 10px;
+}
